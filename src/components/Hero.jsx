@@ -59,7 +59,7 @@ const Hero = () => {
 
         {/* Smooth fade-in button */}
         <a
-          href="/resume.pdf"
+          href="/harishrachuri_resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className={`mt-6 inline-block px-8 py-4 rounded-full text-white font-semibold
